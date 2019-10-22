@@ -1,0 +1,9 @@
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.deps.json
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.dll
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.pdb
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.dll
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.pdb

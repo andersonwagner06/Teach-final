@@ -1,0 +1,17 @@
+C:\Users\matheusre\source\repos\Teach\Teach.Domain\bin\Debug\netcoreapp2.2\Teach.Domain.deps.json
+C:\Users\matheusre\source\repos\Teach\Teach.Domain\bin\Debug\netcoreapp2.2\Teach.Domain.dll
+C:\Users\matheusre\source\repos\Teach\Teach.Domain\bin\Debug\netcoreapp2.2\Teach.Domain.pdb
+C:\Users\matheusre\source\repos\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.csprojAssemblyReference.cache
+C:\Users\matheusre\source\repos\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.csproj.CoreCompileInputs.cache
+C:\Users\matheusre\source\repos\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.AssemblyInfoInputs.cache
+C:\Users\matheusre\source\repos\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.AssemblyInfo.cs
+C:\Users\matheusre\source\repos\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.dll
+C:\Users\matheusre\source\repos\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.pdb
+C:\Source\Teach\Teach.Domain\bin\Debug\netcoreapp2.2\Teach.Domain.deps.json
+C:\Source\Teach\Teach.Domain\bin\Debug\netcoreapp2.2\Teach.Domain.dll
+C:\Source\Teach\Teach.Domain\bin\Debug\netcoreapp2.2\Teach.Domain.pdb
+C:\Source\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.csprojAssemblyReference.cache
+C:\Source\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.AssemblyInfoInputs.cache
+C:\Source\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.AssemblyInfo.cs
+C:\Source\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.dll
+C:\Source\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.pdb

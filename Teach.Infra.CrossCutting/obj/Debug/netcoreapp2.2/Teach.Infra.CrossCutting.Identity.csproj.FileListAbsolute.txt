@@ -1,0 +1,17 @@
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.deps.json
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.dll
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.pdb
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.dll
+C:\Users\matheusre\source\repos\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.pdb
+C:\Source\Teach\Teach.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.deps.json
+C:\Source\Teach\Teach.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.dll
+C:\Source\Teach\Teach.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.pdb
+C:\Source\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Source\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Source\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Source\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.dll
+C:\Source\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.pdb

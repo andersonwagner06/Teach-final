@@ -1,0 +1,16 @@
+C:\Users\matheusre\source\repos\Teach\Teach.Application\bin\Debug\netcoreapp2.2\Teach.Application.deps.json
+C:\Users\matheusre\source\repos\Teach\Teach.Application\bin\Debug\netcoreapp2.2\Teach.Application.dll
+C:\Users\matheusre\source\repos\Teach\Teach.Application\bin\Debug\netcoreapp2.2\Teach.Application.pdb
+C:\Users\matheusre\source\repos\Teach\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.csproj.CoreCompileInputs.cache
+C:\Users\matheusre\source\repos\Teach\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.AssemblyInfoInputs.cache
+C:\Users\matheusre\source\repos\Teach\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.AssemblyInfo.cs
+C:\Users\matheusre\source\repos\Teach\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.dll
+C:\Users\matheusre\source\repos\Teach\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.pdb
+C:\Source\Teach\Teach.Application\bin\Debug\netcoreapp2.2\Teach.Application.deps.json
+C:\Source\Teach\Teach.Application\bin\Debug\netcoreapp2.2\Teach.Application.dll
+C:\Source\Teach\Teach.Application\bin\Debug\netcoreapp2.2\Teach.Application.pdb
+C:\Source\Teach\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.csprojAssemblyReference.cache
+C:\Source\Teach\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.AssemblyInfoInputs.cache
+C:\Source\Teach\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.AssemblyInfo.cs
+C:\Source\Teach\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.dll
+C:\Source\Teach\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.pdb
