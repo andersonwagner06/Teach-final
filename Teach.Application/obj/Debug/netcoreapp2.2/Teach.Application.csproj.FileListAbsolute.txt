@@ -14,3 +14,11 @@ C:\Source\Teach\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.Asse
 C:\Source\Teach\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.AssemblyInfo.cs
 C:\Source\Teach\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.dll
 C:\Source\Teach\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.pdb
+D:\Teach\Teach-final\Teach.Application\bin\Debug\netcoreapp2.2\Teach.Application.deps.json
+D:\Teach\Teach-final\Teach.Application\bin\Debug\netcoreapp2.2\Teach.Application.dll
+D:\Teach\Teach-final\Teach.Application\bin\Debug\netcoreapp2.2\Teach.Application.pdb
+D:\Teach\Teach-final\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.csprojAssemblyReference.cache
+D:\Teach\Teach-final\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.AssemblyInfoInputs.cache
+D:\Teach\Teach-final\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.AssemblyInfo.cs
+D:\Teach\Teach-final\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.dll
+D:\Teach\Teach-final\Teach.Application\obj\Debug\netcoreapp2.2\Teach.Application.pdb

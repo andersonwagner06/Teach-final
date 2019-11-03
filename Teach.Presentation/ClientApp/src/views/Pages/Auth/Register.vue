@@ -27,22 +27,17 @@
         </svg>
       </div>
     </div>-->
-    <!-- Page content --> 
+    <!-- Page content -->
     <div class="container mt--8 pb-5">
       <!-- Table -->
       <div class="row justify-content-center">
-        <div class="col-lg-6 col-md-8">
+        <div class="col-lg-12 col-md-12">
           <div class="card bg-secondary border-0">
             <div class="card-header bg-transparent">
-              <div class="text-center mt-2 mb-2">
-                Para criar sua conta, informe os dados abaixo
-              </div>
+              <div class="text-center mt-2 mb-2">Para criar sua conta, informe os dados abaixo</div>
             </div>
-            <div class="card-body px-lg-5 py-lg-5">
-              <form
-                class="needs-validation"
-                @submit.prevent="handleSubmit">
-
+            <div class="card-body px-lg-12 py-lg-12">
+              <form class="needs-validation" @submit.prevent="handleSubmit">
                 <base-input
                   v-validate="'required|min:3|max:32'"
                   v-model="registerForm.name"
@@ -52,7 +47,8 @@
                   class="mb-3"
                   prepend-icon="ni ni-single-02"
                   placeholder="Nome"
-                  addon-left-icon="ni ni-hat-3"/>
+                  addon-left-icon="ni ni-hat-3"
+                />
 
                 <base-input
                   v-validate="'required|email|min:12|max:64'"
@@ -63,7 +59,8 @@
                   class="mb-3"
                   prepend-icon="ni ni-email-83"
                   placeholder="E-mail"
-                  addon-left-icon="ni ni-email-83"/>
+                  addon-left-icon="ni ni-email-83"
+                />
 
                 <base-input
                   v-validate="'required|min:8|max:64'"
@@ -75,118 +72,127 @@
                   prepend-icon="ni ni-lock-circle-open"
                   placeholder="Senha"
                   type="password"
-                  addon-left-icon="ni ni-lock-circle-open"/>
+                  addon-left-icon="ni ni-lock-circle-open"
+                />
 
-                <password-strength :password="registerForm.password"/>
+                <password-strength :password="registerForm.password" />
 
                 <base-input
                   v-validate="'required'"
                   v-model="registerForm.dateofbirth"
-                  :error="getError('data de nascimento')"
-                  :valid="isValid('data de nascimento')"
-                  name="datadenascimento"
+                  :error="getError('Data de Nascimento')"
+                  :valid="isValid('Data de Nascimento')"
+                  name="Data de Nascimento"
                   class="mb-3"
                   prepend-icon="ni ni-date-button"
                   placeholder="Data de Nascimento"
                   type="date"
-                  addon-left-icon="ni ni-calendar-grid-58"/>
+                  addon-left-icon="ni ni-calendar-grid-58"
+                />
 
-                  <base-input
+                <base-input
                   v-validate="'required'"
                   v-model="registerForm.idiomamaterno"
-                  :error="getError('idioma materno')"
-                  :valid="isValid('idioma materno')"
-                  name="idiomamaterno"
+                  :error="getError('Idioma materno')"
+                  :valid="isValid('Idioma materno')"
+                  name="Idioma materno"
                   class="mb-3"
                   prepend-icon="ni ni-book-button"
                   placeholder="Idioma materno"
-                  type="text"
-                  addon-left-icon="ni ni-world"/>
+                  type="select"
+                  addon-left-icon="ni ni-world"
+                />
 
-                  <base-input
+                <base-input
                   v-validate="'required'"
                   v-model="registerForm.idiomapratica"
-                  :error="getError('idioma pratica')"
-                  :valid="isValid('idioma pratica')"
-                  name="idiomapratica"
+                  :error="getError('Idioma pratica')"
+                  :valid="isValid('Idioma pratica')"
+                  name="Idioma pratica"
                   class="mb-3"
                   prepend-icon="ni ni-book-button"
                   placeholder="Idioma que deseja praticar"
                   type="text"
-                  addon-left-icon="ni ni-world"/>
+                  addon-left-icon="ni ni-world"
+                />
 
-                  <base-input
+                <base-input
                   v-validate="'required'"
                   v-model="registerForm.areadominio"
-                  :error="getError('área dominio')"
-                  :valid="isValid('área dominio')"
-                  name="areadominio"
+                  :error="getError('Área dominio')"
+                  :valid="isValid('Área dominio')"
+                  name="Área dominio"
                   class="mb-3"
                   prepend-icon="ni ni-hat-button"
                   placeholder="Área de domínio"
                   type="text"
-                  addon-left-icon="ni ni-hat-3"/>
+                  addon-left-icon="ni ni-hat-3"
+                />
 
-                  <base-input
+                <base-input
                   v-validate="'required'"
                   v-model="registerForm.areaaprendizado"
-                  :error="getError('área aprendizado')"
-                  :valid="isValid('área aprendizado')"
-                  name="areaaprendizado"
+                  :error="getError('Área aprendizado')"
+                  :valid="isValid('Área aprendizado')"
+                  name="Área aprendizado"
                   class="mb-3"
                   prepend-icon="ni ni-hat-button"
                   placeholder="Área de aprendizado"
                   type="text"
-                  addon-left-icon="ni ni-collection"/>
+                  addon-left-icon="ni ni-collection"
+                />
 
-                  <base-input
+                <base-input
                   v-validate="'required'"
                   v-model="registerForm.assuntoaprender"
-                  :error="getError('assunto que deseja aprender')"
-                  :valid="isValid('assunto que deseja aprender')"
-                  name="assuntoaprender"
+                  :error="getError('Assunto que deseja aprender')"
+                  :valid="isValid('Assunto que deseja aprender')"
+                  name="Assunto que deseja aprender"
                   class="mb-3"
                   prepend-icon="ni ni-books-button"
                   placeholder="Assunto que deseja aprender"
                   type="text"
-                  addon-left-icon="ni ni-books"/>
+                  addon-left-icon="ni ni-books"
+                />
 
-                  <base-input
+                <base-input
                   v-validate="'required'"
-                  v-model="registerForm.assuntoaprender"
-                  :error="getError('como deseja conversar?')"
-                  :valid="isValid('como deseja conversar?')"
-                  name="conversa"
+                  v-model="registerForm.conversa"
+                  :error="getError('Como deseja conversar')"
+                  :valid="isValid('Como deseja conversar')"
+                  name="Como deseja conversar"
                   class="mb-3"
                   prepend-icon="ni ni-chat-button"
                   placeholder="Como deseja conversar?"
                   type="text"
-                  addon-left-icon="ni ni-chat-round"/>
+                  addon-left-icon="ni ni-chat-round"
+                />
 
-                  <base-input
+                <base-input
                   v-validate="'required'"
                   v-model="registerForm.universidade"
-                  :error="getError('universidade')"
-                  :valid="isValid('universidade')"
-                  name="universidade"
+                  :error="getError('Universidade')"
+                  :valid="isValid('Universidade')"
+                  name="Universidade"
                   class="mb-3"
                   prepend-icon="ni ni-chat-button"
                   placeholder="Universidade"
                   type="text"
-                  addon-left-icon="ni ni-paper-diploma"/>
+                  addon-left-icon="ni ni-paper-diploma"
+                />
 
-                  <base-input
+                <base-input
                   v-validate="'required'"
                   v-model="registerForm.areaestudo"
-                  :error="getError('areaestudo')"
-                  :valid="isValid('areaestudo')"
-                  name="areaestudo"
+                  :error="getError('Área de estudo')"
+                  :valid="isValid('Área de estudo')"
+                  name="Área de estudo"
                   class="mb-3"
                   prepend-icon="ni ni-books-button"
                   placeholder="Área de estudo"
                   type="text"
-                  addon-left-icon="ni ni-books"/>
-
+                  addon-left-icon="ni ni-books"
+                />
 
                 <!--
                 <div class="row my-4">
@@ -208,7 +214,8 @@
                 <api-errors
                   :multiple-errors="registerErrors"
                   :alert-classes="'py-2 mb-1'"
-                  dismissible/>
+                  dismissible
+                />
 
                 <div class="text-center">
                   <base-button
@@ -216,21 +223,24 @@
                     type="primary"
                     native-type="submit"
                     size="lg"
-                    class="mt-4 btn-block">Registrar</base-button>
+                    class="mt-1 btn-block"
+                  >Registrar</base-button>
                 </div>
               </form>
             </div>
           </div>
           <div class="row mt-3">
+            <!--
             <div class="col-6">
-              <router-link
-                to="/home"
-                class="text-light"><small>Início</small></router-link>
+              <router-link to="/home" class="text-light">
+                <small>Início</small>
+              </router-link>
             </div>
-            <div class="col-6 text-right">
-              <router-link
-                to="/login"
-                class="text-light"><small>Entrar</small></router-link>
+            -->
+            <div class="col-8 text-right">
+              <router-link to="/login" class="text-light">
+                <small>Já possui uma conta? Clique aqui e faça seu login</small>
+              </router-link>
             </div>
           </div>
         </div>
@@ -239,21 +249,29 @@
   </div>
 </template>
 <script>
-import swal from 'sweetalert2'
-import { mapState } from 'vuex'
+import swal from "sweetalert2";
+import { mapState } from "vuex";
 
 export default {
-  name: 'Register',
-  data () {
+  name: "Register",
+  data() {
     return {
       triedSubmit: false,
       registerForm: {
-        name: '',
-        email: '',
-        cellphone: '',
-        password: ''
+        name: "",
+        email: "",
+        password: "",
+        dateofbirth: "",
+        idiomamaterno: "",
+        idiomapratica: "",
+        areadominio: "",
+        areaaprendizado: "",
+        assuntoaprender: "",
+        conversa: "",
+        universidade: "",
+        areaestudo: ""
       }
-    }
+    };
   },
   computed: {
     ...mapState({
@@ -262,30 +280,30 @@ export default {
     })
   },
   methods: {
-    handleSubmit (e) {
+    handleSubmit(e) {
       this.$validator.validate().then(valid => {
         if (!this.registerForm.agree) {
-          this.triedSubmit = true
+          this.triedSubmit = true;
         } else if (valid) {
-          this.$store.dispatch('account/register', this.registerForm)
+          this.$store.dispatch("account/register", this.registerForm);
         }
-      })
+      });
     },
-    showAlert (title) {
+    showAlert(title) {
       swal({
         title,
         buttonsStyling: false,
-        confirmButtonClass: 'btn btn-success btn-fill'
-      })
+        confirmButtonClass: "btn btn-success btn-fill"
+      });
     },
-    getError (name) {
-      return this.errors.first(name)
+    getError(name) {
+      return this.errors.first(name);
     },
-    isValid (name) {
-      return this.validated && !this.errors.has(name)
+    isValid(name) {
+      return this.validated && !this.errors.has(name);
     }
   }
-}
+};
 </script>
 <style scoped>
 </style>

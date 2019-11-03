@@ -15,3 +15,11 @@ C:\Source\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.AssemblyInfoIn
 C:\Source\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.AssemblyInfo.cs
 C:\Source\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.dll
 C:\Source\Teach\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.pdb
+D:\Teach\Teach-final\Teach.Domain\bin\Debug\netcoreapp2.2\Teach.Domain.deps.json
+D:\Teach\Teach-final\Teach.Domain\bin\Debug\netcoreapp2.2\Teach.Domain.dll
+D:\Teach\Teach-final\Teach.Domain\bin\Debug\netcoreapp2.2\Teach.Domain.pdb
+D:\Teach\Teach-final\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.csprojAssemblyReference.cache
+D:\Teach\Teach-final\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.AssemblyInfoInputs.cache
+D:\Teach\Teach-final\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.AssemblyInfo.cs
+D:\Teach\Teach-final\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.dll
+D:\Teach\Teach-final\Teach.Domain\obj\Debug\netcoreapp2.2\Teach.Domain.pdb

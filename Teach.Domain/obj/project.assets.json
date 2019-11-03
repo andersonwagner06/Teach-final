@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\awalves\\.nuget\\packages\\": {},
+    "C:\\Users\\Anderson Wagner\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\Teach\\Teach.Domain\\Teach.Domain.csproj",
+      "projectUniqueName": "d:\\Teach\\Teach-final\\Teach.Domain\\Teach.Domain.csproj",
       "projectName": "Teach.Domain",
-      "projectPath": "C:\\Source\\Teach\\Teach.Domain\\Teach.Domain.csproj",
-      "packagesPath": "C:\\Users\\awalves\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\Teach\\Teach.Domain\\obj\\",
+      "projectPath": "d:\\Teach\\Teach-final\\Teach.Domain\\Teach.Domain.csproj",
+      "packagesPath": "C:\\Users\\Anderson Wagner\\.nuget\\packages\\",
+      "outputPath": "d:\\Teach\\Teach-final\\Teach.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\awalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anderson Wagner\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

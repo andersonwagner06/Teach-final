@@ -25,3 +25,16 @@ C:\Source\Teach\Teach.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\Teach.Infra
 C:\Source\Teach\Teach.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.IoC.csproj.CopyComplete
 C:\Source\Teach\Teach.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.IoC.dll
 C:\Source\Teach\Teach.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.IoC.pdb
+D:\Teach\Teach-final\Teach.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.IoC.deps.json
+D:\Teach\Teach-final\Teach.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.IoC.dll
+D:\Teach\Teach-final\Teach.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.IoC.pdb
+D:\Teach\Teach-final\Teach.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\Teach.Domain.dll
+D:\Teach\Teach-final\Teach.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\Teach.Infra.Data.dll
+D:\Teach\Teach-final\Teach.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\Teach.Domain.pdb
+D:\Teach\Teach-final\Teach.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\Teach.Infra.Data.pdb
+D:\Teach\Teach-final\Teach.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+D:\Teach\Teach-final\Teach.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+D:\Teach\Teach-final\Teach.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.IoC.AssemblyInfo.cs
+D:\Teach\Teach-final\Teach.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.IoC.csproj.CopyComplete
+D:\Teach\Teach-final\Teach.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.IoC.dll
+D:\Teach\Teach-final\Teach.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.IoC.pdb

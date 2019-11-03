@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\Teach\\Teach.Infra.CrossCutting\\Teach.Infra.CrossCutting.Identity.csproj": {}
+    "D:\\Teach\\Teach-final\\Teach.Infra.CrossCutting\\Teach.Infra.CrossCutting.Identity.csproj": {}
   },
   "projects": {
-    "C:\\Source\\Teach\\Teach.Infra.CrossCutting\\Teach.Infra.CrossCutting.Identity.csproj": {
+    "D:\\Teach\\Teach-final\\Teach.Infra.CrossCutting\\Teach.Infra.CrossCutting.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\Teach\\Teach.Infra.CrossCutting\\Teach.Infra.CrossCutting.Identity.csproj",
+        "projectUniqueName": "D:\\Teach\\Teach-final\\Teach.Infra.CrossCutting\\Teach.Infra.CrossCutting.Identity.csproj",
         "projectName": "Teach.Infra.CrossCutting.Identity",
-        "projectPath": "C:\\Source\\Teach\\Teach.Infra.CrossCutting\\Teach.Infra.CrossCutting.Identity.csproj",
-        "packagesPath": "C:\\Users\\awalves\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\Teach\\Teach.Infra.CrossCutting\\obj\\",
+        "projectPath": "D:\\Teach\\Teach-final\\Teach.Infra.CrossCutting\\Teach.Infra.CrossCutting.Identity.csproj",
+        "packagesPath": "C:\\Users\\Anderson Wagner\\.nuget\\packages\\",
+        "outputPath": "D:\\Teach\\Teach-final\\Teach.Infra.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\awalves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anderson Wagner\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

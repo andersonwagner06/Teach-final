@@ -15,3 +15,11 @@ C:\Source\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.Cro
 C:\Source\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.AssemblyInfo.cs
 C:\Source\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.dll
 C:\Source\Teach\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.pdb
+D:\Teach\Teach-final\Teach.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.deps.json
+D:\Teach\Teach-final\Teach.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.dll
+D:\Teach\Teach-final\Teach.Infra.CrossCutting\bin\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.pdb
+D:\Teach\Teach-final\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+D:\Teach\Teach-final\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+D:\Teach\Teach-final\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.AssemblyInfo.cs
+D:\Teach\Teach-final\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.dll
+D:\Teach\Teach-final\Teach.Infra.CrossCutting\obj\Debug\netcoreapp2.2\Teach.Infra.CrossCutting.Identity.pdb
